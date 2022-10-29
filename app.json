@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Help Me!",
+    "slug": "Help-meApp",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode":"contain",
+      "backgroundColor":"#FFFFFF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFF"
+      },
+      "package": "com.HelpMe.HelpMe"
+    },
+    "ios": {
+      "bundleIdentifier": "com.HelpMe.HelpMe"
+    }
+  },
+  "name": "Help Me!"
+}
+
